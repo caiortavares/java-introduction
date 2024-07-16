@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Calcula o produto de três inteiros
 public class Calculadora {
     public static void main(String[] args)
     {
