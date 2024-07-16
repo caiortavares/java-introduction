@@ -17,7 +17,7 @@ public class Calculadora {
         System.out.print("Digite o terceiro número: ");
         z = input.nextInt();
 
-        result = x + y + z;
+        result = x * y * z;
         System.out.println("Produto é: " +result);
     }
 }
