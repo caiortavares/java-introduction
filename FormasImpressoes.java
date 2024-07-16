@@ -1,4 +1,4 @@
-public class Teste {
+public class FormasImpressoes {
     public static void main(String[] args){
         int x = 2;
         int y = 3;
@@ -14,7 +14,7 @@ public class Teste {
         System.out.print(c + " " );
         System.out.print(d);
         System.out.printf("\n %d %d %d %d", a, b, c, d);
-        
+
     }
 
 }
